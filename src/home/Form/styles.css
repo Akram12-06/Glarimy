@@ -1,0 +1,68 @@
+.Form-container {
+  background-color: #EEE;
+  width: 50%;
+  border: 1 solid red;
+  font-size: 14px;
+  min-width: 400px;
+  min-height: 500px;
+}
+
+.Form-panel {
+  padding: 72px;
+}
+
+.Form-title {
+  color: teal;
+  font-size: 32px;
+  font-weight: 750;
+}
+
+.Form-note {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.Form-group {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.Form-input {
+  width: 100%;
+  border: none;
+  height: 32px;
+  margin-top: 5px;
+  padding-left: 5px;
+  border-bottom: 1px solid #DDD;
+}
+
+.Form-button {
+  width: 100%;
+  border: none;
+  height: 48px;
+  background-color: teal;
+  color: white;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.error {
+  color: red;
+  font-style: italic;
+}
+
+.suggestion{
+  color: teal;
+  text-align: right;
+}
+
+.suggestion>a{
+  color: teal;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.caption {
+  font-weight: bold;
+}
+
